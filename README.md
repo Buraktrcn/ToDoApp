@@ -1,12 +1,13 @@
-#Mobile Todo Application
-
-This mobile todo application helps you organize and track your daily tasks. You can add, edit, and mark completed tasks. With its user-friendly interface, managing your tasks is easy.
+Mobile Todo Application
+This mobile todo application is designed to help you organize and manage your daily tasks efficiently. With this app, you can easily add, edit, and delete tasks, as well as mark them as completed. Additionally, it provides the functionality to visually cross out completed tasks for better clarity.
 
 Features
-Task Adding: Quickly add tasks you need to do.
-Task Editing: Edit or update your tasks anytime.
-Completion Marking: Update your task list by marking completed tasks.
-Mobile-Friendly Interface: Easily accessible from any mobile device.
+Task Adding: Add tasks to your list effortlessly.
+Task Editing: Edit or update tasks whenever necessary.
+Task Deletion: Remove tasks that are no longer needed.
+Task Completion: Mark tasks as completed when they are finished.
+Task Cross-Out: Ability to visually cross out completed tasks.
+
 
 
 
